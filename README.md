@@ -1,5 +1,6 @@
 # hello-world
-My first repository
+
+Just trying a few things out to learn how to use this properly
 
 I am an accountant and I want to learn coding.  Right now I am taking
 a class on full-stack web design through Udemy and the App Brewery so
